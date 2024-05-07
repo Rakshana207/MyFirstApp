@@ -1,0 +1,100 @@
+
+{"match1" : [
+   {
+      "teamName1": "Akshay ff esport",
+      "player1": 5,
+      "player2": 2,
+      "player3": 5,
+      "player4": 6,
+      "position":1
+   },
+   {
+     "teamName": "The Gravitron",
+     "player1": 1,
+     "player2": 0,
+     "player3": 0,
+     "player4": 1,
+     "position":5
+  },
+  {
+     "teamName": "KV 18 esports",
+     "player1": 7,
+     "player2": 3,
+     "player3": 2,
+     "player4": 2,
+     "position":2
+  },
+  {
+     "teamName": "JOHN WICK GAMER",
+     "player1": 0,
+     "player2": 0,
+     "player3": 3,
+     "player4": 0,
+     "position":4
+  },
+  {
+     "teamName": "NXG ESPORTS",
+     "player1": 0,
+     "player2": 0,
+     "player3": 1,
+     "player4": 1,
+     "position":8
+  },
+  {
+     "teamName": "TEAM GRAVITY",
+     "player1": 0,
+     "player2": 2,
+     "player3": 1,
+     "player4": 0,
+     "position":10
+  },
+  {
+     "teamName": "HRS ESPORTS",
+     "player1": 0,
+     "player2": 1,
+     "player3": 3,
+     "player4": 1,
+     "position":6
+  },
+  {
+     "teamName": "4DOMINATORS",
+     "player1": 0,
+     "player2": 0,
+     "player3": 0,
+     "player4": 0,
+     "position":12
+  },
+  {
+     "teamName": "TEAM REBEL",
+     "player1": 1,
+     "player2": 2,
+     "player3": 3,
+     "player4": 0,
+     "position":9
+  },
+  {
+     "teamName": "AGENT CREWS",
+     "player1": 4,
+     "player2": 4,
+     "player3": 3,
+     "player4": 1,
+     "position":3
+  },
+  {
+     "teamName": "HWK SQUAD",
+     "player1": 0,
+     "player2": 0,
+     "player3": 0,
+     "player4": 0,
+     "position":11
+  },
+  {
+     "teamName": "GENZ KIDZ",
+     "player1": 1,
+     "player2": 1,
+     "player3": 0,
+     "player4": 2,
+     "position":7
+  }
+ ]
+}
